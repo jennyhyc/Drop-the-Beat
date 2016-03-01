@@ -135,7 +135,7 @@ function DRUMKIT(){
     bass : 'sounds/drum/bass.mp3',
     hatCl: 'sounds/drum/hatCl.mp3',
     hatOp: 'sounds/drum/hatOp.mp3',
-    HatPd: 'sounds/drum/HatPd.mp3',
+    HatPd: 'sounds/drum/hatPd.mp3',
     crash: 'sounds/drum/crash.mp3',
     ride : 'sounds/drum/ride.mp3',
     clap : 'sounds/drum/clap.mp3',
