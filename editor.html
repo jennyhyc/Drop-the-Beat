@@ -1196,22 +1196,8 @@ function onDocumentMouseUp( event ){
 }
 
 function onWindowResize (){
-  /**/
-  camera.aspect = window.innerWidth / window.innerHeight;
   renderer.setViewport (0,0,window.innerWidth, window.innerHeight);
   renderer.setSize(window.innerWidth, window.innerHeight);
-  //camera.updateProjectionMatrix();
-  //renderer.setSize (window.innerWidth, window.innerHeight);
-  /**./
-  var w = window.innerWidth/16;
-  var h = window.innerHeight/9;
-  var tmp;
-  if( w > h ) tmp = h;
-  else        tmp = w;
-  camera.aspect = 16/9;
-  camera.updateProjectionMatrix();
-  renderer.setSize( 16*tmp, 9*tmp);
-  /**/
 }
 
 function animate(){
