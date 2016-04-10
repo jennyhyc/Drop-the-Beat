@@ -594,7 +594,11 @@ function init() {
   /////
   renderer = new THREE.WebGLRenderer();
   renderer.setClearColor ( colorMode[ "background" ] );
-  renderer.setSize( window.innerWidth, window.innerHeight );
+  
+  // onWindowResize();
+  renderer.setViewport (0,0,window.innerWidth, window.innerHeight);
+  renderer.setSize(window.innerWidth, window.innerHeight);
+  
   document.body.appendChild( renderer.domElement);
   window.addEventListener( 'resize', onWindowResize, false);
   

@@ -128,20 +128,20 @@ function playSound(buffer, time, intensity) {
 /***** Sound Collection *****/
 function DRUMKIT(){
   loadSounds(this, {
-    snare: 'sounds/drum/snare.mp3',
-    tomHh: 'sounds/drum/tomHh.mp3',
-    tomLw: 'sounds/drum/tomLw.mp3',
-    tomFl: 'sounds/drum/tomFl.mp3',
-    bass : 'sounds/drum/bass.mp3',
-    hatCl: 'sounds/drum/hatCl.mp3',
-    hatOp: 'sounds/drum/hatOp.mp3',
-    HatPd: 'sounds/drum/hatPd.mp3',
-    crash: 'sounds/drum/crash.mp3',
-    ride : 'sounds/drum/ride.mp3',
-    clap : 'sounds/drum/clap.mp3',
-    stick: 'sounds/drum/stick.mp3',
+    snare: 'sounds/drum/snare.wav',
+    tomHh: 'sounds/drum/tomHh.wav',
+    tomLw: 'sounds/drum/tomLw.wav',
+    tomFl: 'sounds/drum/tomFl.wav',
+    bass : 'sounds/drum/bass.wav',
+    hatCl: 'sounds/drum/hatCl.wav',
+    hatOp: 'sounds/drum/hatOp.wav',
+    HatPd: 'sounds/drum/hatPd.wav',
+    crash: 'sounds/drum/crash.wav',
+    ride : 'sounds/drum/ride.wav',
+    clap : 'sounds/drum/clap.wav',
+    stick: 'sounds/drum/stick.wav',
     
-    metronome_ding:  'sounds/metronome/ding.mp3',
-    metronome_click: 'sounds/metronome/click.mp3'
+    metronome_ding:  'sounds/metronome/ding.wav',
+    metronome_click: 'sounds/metronome/click.wav'
   });
 }
