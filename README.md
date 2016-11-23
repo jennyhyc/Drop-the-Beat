@@ -1,18 +1,18 @@
 # <a href="http://jennyhyc.github.io/Drop-the-Beat/editor.html"> Drop-the-Beat</a>
 
-### play/pause <img src="images/README/play.png" width="32" />
+### <img src="images/README/play.png" width="32" /> play/pause 
  - Double Tap: let editor back to the beginning
  
-### loop <img src="images/README/loop.png" width="32" />
+### <img src="images/README/loop.png" width="32" /> loop 
  
-### metronome sound <img src="images/README/metronome.png" width="32" />
+### <img src="images/README/metronome.png" width="32" /> metronome sound 
  
-### choose the take <img src="images/README/takes.png" width="32" />
+### <img src="images/README/takes.png" width="32" /> choose the take 
  - Long Tap: hide and mute the take
  
-### delete the take <img src="images/README/delete.png" width="32"/>
+### <img src="images/README/delete.png" width="32"/> delete the take 
  
-### download/upload <img src="images/README/up-download.png" height="32"/>
+### <img src="images/README/up-download.png" height="32"/> download/upload 
  - format: JSON string
 
 ### Accent
