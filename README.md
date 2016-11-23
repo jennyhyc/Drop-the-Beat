@@ -15,6 +15,3 @@
 
 ### 3D Drum Kit
 ![alt text](http://jennyhyc.github.io/Drop-the-Beat/images/README/3d-mode.png "3d-mode")
-
-
-
