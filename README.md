@@ -1,9 +1,8 @@
 #<a href="http://jennyhyc.github.io/Drop-the-Beat/editor.html"> Drop-the-Beat</a>
 
-
-<h4> <img src="images/README/play.png" width="42" /> </h4>
-  - <p> <b>Tap        :</b> toggle editor between play-mode and pause-mode </p>
-  - <p> <b>Double Tap :</b> let editor back to the beginning </p>
+icon|function
+---|---
+<h4> <img src="images/README/play.png" width="42" /> </h4> | <p> <b>Tap        :</b> toggle editor between play-mode and pause-mode </p> <p> <b>Double Tap :</b> let editor back to the beginning </p>
 <h4> <img src="images/README/loop.png" width="42" /> </h4>
   - <p> <b>Tap        :</b> toggle loop </p>
 <h4> <img src="images/README/metronome.png" width="42" /> </h4>
