@@ -8,12 +8,12 @@
  - WebGL: Three.JS
  - HTML5: Web Audio
 
-### 
+----- 
 
-##### drum editor
+### drum editor
 ![alt text](http://jennyhyc.github.io/Drop-the-Beat/images/README/icon-function.png "icon-function")
 
-##### 3D drum kit
+### 3D drum kit
 ![alt text](http://jennyhyc.github.io/Drop-the-Beat/images/README/3d-mode.png "3d-mode")
 
 
