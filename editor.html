@@ -596,10 +596,11 @@ function init() {
   renderer.setClearColor ( colorMode[ "background" ] );
   
   // onWindowResize();
-  renderer.setViewport (0,0,window.innerWidth, window.innerHeight);
-  renderer.setSize(window.innerWidth, window.innerHeight);
+  //renderer.setViewport (0,0,window.innerWidth, window.innerHeight);
+  //renderer.setSize(window.innerWidth, window.innerHeight);
   
   document.body.appendChild( renderer.domElement);
+  onWindowResize();
   window.addEventListener( 'resize', onWindowResize, false);
   
   //controls = new THREE.OrbitControls (camera, renderer.domElement);
